@@ -1,5 +1,5 @@
 sudo apt update
-sudo apt install lxqt-core
+sudo apt install language-pack-zh-hans -y
 sudo apt install lxqt
 sudo apt install tigervnc-standalone-server tigervnc-common
 vncserver :1
